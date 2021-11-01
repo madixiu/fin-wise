@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "FinWise",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

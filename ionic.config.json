@@ -1,0 +1,8 @@
+{
+  "name": "FinWise",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "b45a6ff5"
+}
